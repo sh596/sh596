@@ -1,4 +1,4 @@
-### I am I am a student Android developer
+### I am a student Android developer
 
 <details>
 <summary>stack</summary>
